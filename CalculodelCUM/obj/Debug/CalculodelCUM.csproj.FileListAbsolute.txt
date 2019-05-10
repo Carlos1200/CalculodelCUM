@@ -1,0 +1,7 @@
+C:\Users\cdavi\Desktop\CalculodelCUM\CalculodelCUM\bin\Debug\CalculodelCUM.exe.config
+C:\Users\cdavi\Desktop\CalculodelCUM\CalculodelCUM\bin\Debug\CalculodelCUM.exe
+C:\Users\cdavi\Desktop\CalculodelCUM\CalculodelCUM\bin\Debug\CalculodelCUM.pdb
+C:\Users\cdavi\Desktop\CalculodelCUM\CalculodelCUM\obj\Debug\CalculodelCUM.csprojAssemblyReference.cache
+C:\Users\cdavi\Desktop\CalculodelCUM\CalculodelCUM\obj\Debug\CalculodelCUM.csproj.CoreCompileInputs.cache
+C:\Users\cdavi\Desktop\CalculodelCUM\CalculodelCUM\obj\Debug\CalculodelCUM.exe
+C:\Users\cdavi\Desktop\CalculodelCUM\CalculodelCUM\obj\Debug\CalculodelCUM.pdb
